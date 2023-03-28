@@ -1,0 +1,7 @@
+{
+  "superpeer_host": "127.0.0.1",
+  "superpeer_port": 9002,
+  "peer_host": "127.0.0.1",
+  "peer_port": 10002,
+  "shared_folder_path": "/path/to/shared/folder"
+}
